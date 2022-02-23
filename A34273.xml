@@ -1,0 +1,278 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A congratulatory epithalamium, or speech on the arrival of Her Royal Highness, and happy marriage to the most illustrious prince James Duke of York</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1673</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A34273</idno>
+            <idno type="STC">Wing C5817A</idno>
+            <idno type="STC">ESTC R213370</idno>
+            <idno type="EEBO-CITATION">99825770</idno>
+            <idno type="PROQUEST">99825770</idno>
+            <idno type="VID">30157</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A34273)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 30157)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1757:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A congratulatory epithalamium, or speech on the arrival of Her Royal Highness, and happy marriage to the most illustrious prince James Duke of York</title>
+               </titleStmt>
+               <extent>[2], 2 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>printed anno Dom. MDCLXXIII. [1673]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title on p.1 reads: On the arrival of Her Royall Highness, and happy marriage to the most illustrious prince James Duke of York, &amp;c.</note>
+                  <note>Verse - "Whilst now the sun retiring, mews his beams,".</note>
+                  <note>Reproduction of original in the University of Illinois (Urbana-Champaign Campus). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>James --  II, --  King of England, 1633-1701 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:30157:1"/>
+            <!-- PDF PAGE 19 -->
+            <pb facs="tcp:30157:1"/>
+            <!-- PDF PAGE 19 -->
+            <p>
+               <hi>A CONGRAT<g ref="char:V">Ʋ</g>LATORY EPITHALAMI<g ref="char:V">Ʋ</g>M,</hi> OR SPEECH ON THE ARRIVAL OF HER Royal Highneſs, AND HAPPY MARRIAGE TO THE MOST ILLUSTRIOUS PRINCE JAMES DUKE OF YORK:</p>
+            <p>
+               <hi>LONDON,</hi> Printed <hi>Anno Dom.</hi> MDCLXXIII.</p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:30157:2"/>
+            <!-- PDF PAGE 20 -->
+            <pb n="1" facs="tcp:30157:2"/>
+            <!-- PDF PAGE 20 -->
+            <head>On the Arrival of Her Royall Highneſs, and Happy Marriage to the moſt Illustrious Prince <hi>JAMES,</hi> Duke of <hi>YORK,</hi> &amp;c.</head>
+            <lg>
+               <l>WHilſt now the <hi>Sun</hi> retiring, <hi>Mews</hi> his Beams,</l>
+               <l>And gilds the Days with none but <hi>Sickly</hi> Gleams:</l>
+               <l>What <hi>New-ſprung</hi> Light breaks from our <hi>Eaſt,</hi> to bring</l>
+               <l>In Depth of <hi>Winter</hi> this unlook'd for <hi>Spring?</hi>
+               </l>
+               <l>What Second <hi>Venus</hi> do our wondring Eyes</l>
+               <l>Behold, from <hi>Neptunes</hi> Azure Boſom Riſe?</l>
+               <l>Thus I enquir'd, when the loud Breath of <hi>Fame</hi>
+               </l>
+               <l>Straight <hi>Bleſt</hi> my Ears, with Fair <hi>MODENA's</hi> Name</l>
+               <l>A <hi>Princeſs!</hi> That adds <hi>Luſtre</hi> to Her <hi>Race,</hi>
+               </l>
+               <l>And's made by Heav'n the <hi>Store-houſe</hi> of each <hi>Grace;</hi>
+               </l>
+               <l>Attracted by Chaſt Love's <hi>Magnetick</hi> Charms,</l>
+               <l>Thus <hi>Northward</hi> to her Mighty <hi>JAMES's</hi> Armes:</l>
+               <l>We did to <hi>Italy</hi> a Conqueſt owe,</l>
+               <l>Since <hi>Caſar</hi> wrought the <hi>Britains</hi> overthrow.</l>
+               <l>
+                  <hi>Love</hi> makes <hi>Repriſals</hi> now, and brings from thence,</l>
+               <l>A <hi>Trophy</hi> of a greater <hi>Excellence.</hi>
+               </l>
+               <l>As <hi>Sheba</hi> once, led by the Noiſe of Fame</l>
+               <l>To <hi>Solomon,</hi> from <hi>diſtant</hi> Regions came:</l>
+               <l>So <hi>YORK's</hi> Renown, which through the World is ſpread,</l>
+               <l>Invites this <hi>Virgin Princeſs</hi> to his <hi>Bed:</hi>
+               </l>
+               <l>Who through a <hi>Tedious</hi> Journy does Advance,</l>
+               <l>Traverſing all the Continent of <hi>France;</hi>
+               </l>
+               <l>Whoſe <hi>proudeſt Beauties,</hi> Envying at her Fate,</l>
+               <l>Muſt yet pay Homage to her greater <hi>State;</hi>
+               </l>
+               <l>And with Regret Conduct her to the <hi>Sea,</hi>
+               </l>
+               <l>Each <hi>Bluſhing</hi> Princeſs wiſhing 'thad been <hi>Shee.</hi>
+               </l>
+               <l>News of <hi>YORK's Bride</hi> to <hi>Neptunes</hi> Court doth run;</l>
+               <l>
+                  <hi>YORK!</hi> that ſo many VVonders <hi>There</hi> had done;</l>
+               <l>And ſtraight the buſy <hi>Sea-Nymphs</hi> call each other,</l>
+               <l>To ſhew their Duty to their <hi>Sov'raigns</hi> Brother;</l>
+               <l>Mounted on ſwifteſt <hi>Dolphins</hi> Backs, they come</l>
+               <l>And <hi>Dance</hi> about the Ship ſhould bring her <hi>Home.</hi>
+               </l>
+               <l>When firſt ſhe <hi>Launch'd,</hi> the Ambitious Waves no more</l>
+               <l>VVould Kiſs the Lips of the <hi>forſaken</hi> Shore;</l>
+               <l>But Proud of ſuch <hi>Rich Fraight,</hi> began t' Aſpire,</l>
+               <l>As if they'd Quench the <hi>Elemental</hi> Fire;</l>
+               <l>So that Philoſophers <hi>ſince</hi> ſcarce agee,</l>
+               <l>VVhether the <hi>Earth,</hi> or <hi>Ocean</hi> higheſt be.</l>
+               <l>The trembling <hi>Compaſs</hi> had forgot to ſtir,</l>
+               <l>Inſtead o'th' <hi>North-Pole,</hi> pointing ſtill at <hi>Her;</hi>
+               </l>
+               <l>At which the <hi>Pilot</hi> wonders, till he ſpies</l>
+               <l>Two <hi>North-Poles</hi> Culminant at once, Her <hi>Eyes.</hi>
+               </l>
+               <l>The Jolly Seamen, when ſhe <hi>Breathed,</hi> thought</l>
+               <l>The Precious <hi>Amber</hi> 'bout their Ship did Float.</l>
+               <l>And if at all ſweet <hi>Zephyrus</hi> did ſtir,</l>
+               <l>'Twas not to <hi>Blow,</hi> But ſuck freſh Breath from <hi>Her:</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>But ſee! Fair <hi>Albions</hi> Rocks do yonder ſtand,</l>
+               <l>And <hi>Neptune</hi> muſt Reſigne Her to the <hi>Land;</hi>
+               </l>
+               <l>
+                  <pb n="2" facs="tcp:30157:3"/>
+                  <!-- PDF PAGE 21 -->
+VVho vext to part ſo with the <hi>Prize</hi> he bore,</l>
+               <l>VVith <hi>ſullen Murmurs,</hi> chides the happier Shore;</l>
+               <l>'Till that with Roaring <hi>Cannons</hi> loes affright</l>
+               <l>Him back, and makes him quit the <hi>Glorious Sight:</hi>
+               </l>
+               <l>Mean time our <hi>Nobles</hi> Croud t' Admire her Charms,</l>
+               <l>VVhilſt the <hi>Brave Duke</hi> Receives Her in His Arms;</l>
+               <l>And <hi>Heavens Ambaſſador</hi> prepared ſtands</l>
+               <l>In <hi>Sacred</hi> Ties, to Link their <hi>Am'rous</hi> hands.</l>
+               <l>Henceforth no more, They <hi>Night</hi> or glaring <hi>Noon</hi>
+               </l>
+               <l>Shall know, not Meaſure <hi>Hours</hi> by <hi>Sun</hi> or <hi>Moon.</hi>
+               </l>
+               <l>But <hi>Kiſſes</hi> as they oft repeated flow,</l>
+               <l>Shall ſcore <hi>Minutes;</hi> and their <hi>Embraces</hi> ſhow</l>
+               <l>Our duller Age, how all the <hi>Flowers</hi> paſs,</l>
+               <l>VVithout the Help of <hi>Tymes</hi> VVorm-eaten Glaſs.</l>
+               <lg>
+                  <l>
+                     <hi>Aſtrologers</hi> ſhall by their Motion-make</l>
+                  <l>The <hi>Year,</hi> and from their kind <hi>Conjunctions</hi> take</l>
+                  <l>Rules to Compoſe Love a <hi>New-Almanack.</hi>
+                  </l>
+               </lg>
+               <l>But to deſcribe their <hi>Pleaſures,</hi> is as far</l>
+               <l>Above our <hi>Reach,</hi> as their Juſt <hi>Praiſes</hi> are.</l>
+               <lg>
+                  <l>To Fadome either Ocean, we Deſpair,</l>
+                  <l>And only dare <hi>Addreſs</hi> to Heav'n a <hi>Pray'r,</hi>
+                  </l>
+                  <l>VVith Zealous <hi>Wiſhes</hi> for this Glorious Pair.</l>
+               </lg>
+            </lg>
+            <lg>
+               <l>May Bleſſings <hi>Rich</hi> and <hi>Fragrant</hi> Crown their Heads,</l>
+               <l>As the mild Heav'n on <hi>bluſhing Roſes</hi> ſheds;</l>
+               <l>Freſh as the <hi>Hours,</hi> may all their <hi>Pleaſures</hi> be,</l>
+               <l>Healthful and Laſting as Eternity.</l>
+               <l>Soft as <hi>Themſelves,</hi> run their whole Lives, and <hi>Clear</hi>
+               </l>
+               <l>As their unflat'ring <hi>Glaſs,</hi> or <hi>what Shines</hi> there;</l>
+               <l>Smooth as <hi>Heav'ns Face</hi> in Spring, and <hi>Bright</hi> as <hi>She</hi>
+               </l>
+               <l>When <hi>dazling,</hi> without <hi>Mask</hi> or <hi>Tiffany.</hi>
+               </l>
+               <l>VVith no one <hi>Jarr,</hi> may their Calm thoughts e're meet,</l>
+               <l>But Peace as <hi>Silent</hi> as Tyme's <hi>Wooly</hi> Feet.</l>
+               <l>Like the days <hi>Warmth,</hi> may all their <hi>Comforts</hi> be</l>
+               <l>
+                  <hi>
+                     <g ref="char:V">Ʋ</g>ntoil'd</hi> for, and ever <hi>Serene as He;</hi>
+               </l>
+               <l>Yet Free and Full, as is that Golden Sheaf</l>
+               <l>Of Sun-Beams, Gilding every drooping Leaf;</l>
+               <l>VVhen Tyrant Heat of the Mid-Day Expires,</l>
+               <l>And his deſcending Steeds Breath milder Fires.</l>
+               <l>And as thoſe Parcell'd-Glories, <hi>Sol</hi> doth ſhed,</l>
+               <l>Are the fair Iſſue of his flaming Head;</l>
+               <l>VVhich ne'r ſo Scattered, or Remote, are known</l>
+               <l>By th' Heat and Native Luſtre for his own:</l>
+               <l>So may each happy <hi>Branch</hi> of theirs we ſee,</l>
+               <l>Their <hi>Lively Copies,</hi> and our <hi>Wonders</hi> be.</l>
+               <l>And when no more on Earth they ſhall remain,</l>
+               <l>But are Invited <hi>Home,</hi> to Heav'n again;</l>
+               <l>Then may the Glories of their Virtuous Flames,</l>
+               <l>Live in thoſe Heirs of their Illuſtrious Names;</l>
+               <l>And teach th' obliged VVorlds, this Myſtery,</l>
+               <l>To enjoy Themſelves in Their Poſterity.</l>
+            </lg>
+            <lg>
+               <l>So They to both VVorlds, ſhall Rich <hi>Preſents</hi> bring,</l>
+               <l>And gather'd up to Heav'n, leave here a Spring.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:30157:3"/>
+            <!-- PDF PAGE 21 -->
+         </div>
+      </body>
+   </text>
+</TEI>
